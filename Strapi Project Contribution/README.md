@@ -1,10 +1,3 @@
-# The-Michelin-Guide
-This guide provides useful information to the Strapi Stars
+# Strapi Project Contribution
 
-### Glossary 
-
-### Resources
-
-### Contact
-
-### FAQ
+Content on how to get start contributing to Strapi will live here. Coming soon...
