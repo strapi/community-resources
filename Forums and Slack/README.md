@@ -1,4 +1,4 @@
-# The-Michelin-Guide
+# Forums and Slack
 This guide provides useful information to the Strapi Stars
 
 ### Glossary 
