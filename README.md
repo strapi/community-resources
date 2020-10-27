@@ -15,35 +15,30 @@ This guide provides useful information to the Strapi Community Stars.
 
 
 ### Program Goals
-We want to be able to positively impact our community in a meanigful way. With that in mind, we created the Strapi Community Stars Program to help members become better in focus areas while using Strapi as a vehicle to get there. Potentially, we hope to train...better Programmers, better Writers, better Speakers and better Community Managers.
+We want to be able to positively impact our community in a meanigful way. With that in mind, we created the Strapi Community Stars Program to help members become better in focus areas while using Strapi as a vehicle to get there. Potentially, we hope to train... **better Programmers, better Writers, better Speakers and better Community Managers.**
 
 ### Program Process
-> Have 1:1 call - to sync priorities and establish personal connection
-> Stars confirm a focus area 
-> We avail Stars training and resources and invite them to the Strapi Stars github repo
-> We add Stars to website
-
-> We have month check-ins
-> Quarterly feedback/progress checks on focus areas
+- Have 1:1 call - to sync priorities and establish personal connection
+- Stars confirm a focus area 
+- We avail Stars training and resources and invite them to the Strapi Stars github repo
+- We add Stars to website
+- We have month check-ins
+- Quarterly feedback/progress checks on focus areas
 
 #### Acting as a Community Star
 
-During oyur Commitments - We aren’t asking for the world. Just some time.. Maybe a little more than you already give right now.
+As you go about doing your work as a Communitry Star, we will utilize a light weight tracking system that uses [GitHub Issues](). All you need to do is follow the issue template to add an activity and bring it to our attention.
 
-
-Light weight tracking and this improves as we grow
-
-### Perks
-Access to the Advanced Strapi Training - Strapi Certification
-Test out and use new features 
-Exclusive Swag Pack
-Opportunities to mentor hackathons & conferences
-Recognition on Strapi Facebook, Twitter & Online Channels
-Mentorship and help towards becoming a Strapi contributor
-External Support in areas of interest for Career Growth
-Professionally recognized experience with Strapi
-Insight into a top open source project
-Travel support for events
+### Perks [Add how to redeem in bullet point format]
+- Access to the Advanced Strapi Training - Strapi Certification
+- Test out and use new features 
+- Exclusive Swag Pack
+- Opportunities to mentor hackathons & speak at conferences
+- Recognition on Strapi Facebook, Twitter & Online Channels
+- Mentorship and help towards becoming a Strapi contributor
+- External Support in areas of interest for Career Growth
+- Professionally recognized experience with Strapi
+- Travel support for events 
 
 
 ### Resources
@@ -56,26 +51,27 @@ Depending on your path, we have curated and created different resources to help 
 
 #### Whats Coming Up
 
-- [ ] Create Program assets and deploy page
+- [ ] Create program assets and deploy page
 - [ ] Roll out perks
 - [ ] Communication for launch
 - [ ] Gather feedback & iterate
 
 
 ### Contact
+If you need the help of the Strapi team a good first step would be to drop a message in the [#strapi-stars](https://strapi.slack.com/archives/G01AZ86NG92) channel or email Daniel on daniel.phiri@strapi.io.
 
 ### FAQ
 
-<details><summary>How much time do I put into this?</summary>
+<details><summary>Who do I contact if I need help?</summary>
 <p>
 
-Keep doing wehat you're doing :p 
-(add actual answer)
+If you need the help of the Strapi team a good first step would be to drop a message in the [#strapi-stars](https://strapi.slack.com/archives/G01AZ86NG92) channel or email Daniel on daniel.phiri@strapi.io.
 
 </p>
 </details>
 
+Please send a message in the [#strapi-stars](https://strapi.slack.com/archives/G01AZ86NG92) if you would like to add a question to the FAQs.
+
 ### Code of Conduct
 
-[Add link to forums]
-
+As Strapi Community representatives, we expect you to follow and abide by our [Code of Conduct](https://forum.strapi.io/faq).
