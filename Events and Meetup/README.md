@@ -1,10 +1,24 @@
-# The-Michelin-Guide
-This guide provides useful information to the Strapi Stars
+# Events and Meetups 
+Information on everything events be it making them happen or participating. We'll cover topics like speaking, managing attendees, growing your meetup and many more.
 
-### Glossary 
+## Table of Contents
 
-### Resources
+### Meetups
+#### Starting a Meetup
+#### Growing your Meetup
+#### Looking for Speakers
+#### Meetup Logistics
+#### Staying Consistent 
+### Meetup Management Resources
+-
 
-### Contact
+### Speaking 
+#### Getting Past Imposter Syndrome
+#### Looking for Conferences
+#### Creating a Proposal
+#### Creating Slides
+#### Giving your talk
+### Speaking Resources
+-
 
-### FAQ
+### General Event Resources
