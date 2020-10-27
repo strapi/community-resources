@@ -1,10 +1,14 @@
-# The-Michelin-Guide
-This guide provides useful information to the Strapi Stars
+# Content and Writing
+Information on everything content, this includes guides and content on how to create, manage and promote resources you create. Be that written, audio or video.
 
-### Glossary 
+## Table of Contents
 
-### Resources
+### Introduction to Technical Writing 
+### Technical Writing Resources
+-
 
-### Contact
+### Introduction to Video Content 
+### Video Creation Resources
+-
 
-### FAQ
+### General Content Creation Resources
