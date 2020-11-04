@@ -1,4 +1,3 @@
-# The Michelin Guide
 This guide provides useful information to the Strapi Community Stars.
 
 ## Table of Contents
@@ -15,7 +14,7 @@ This guide provides useful information to the Strapi Community Stars.
 
 
 ### Program Goals
-We want to be able to positively impact our community in a meanigful way. With that in mind, we created the Strapi Community Stars Program to help members become better in focus areas while using Strapi as a vehicle to get there. Potentially, we hope to train... **better Programmers, better Writers, better Speakers and better Community Managers.**
+We want to be able to positively impact our community in a meaningful way. With that in mind, we created the Strapi Community Stars Program to help members become better in focus areas while using Strapi as a vehicle to get there. Potentially, we hope to train... **better Programmers, better Writers, better Speakers and better Community Managers.**
 
 ### Program Process
 - Have 1:1 call - to sync priorities and establish personal connection
