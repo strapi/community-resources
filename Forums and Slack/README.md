@@ -4,21 +4,21 @@ Information on everything community, this guide includes information on how to g
 ## Table of Contents
 - [Online Communities]()
   - [Understanding Developer Communities]()
-  - [Understanding Coimmunity Management]()
+  - [Understanding Community Management]()
   - [Creating Inclusive Communities]()
   - [Why we use Slack]()
   - [Why we use Discourse]()
-  - [Conflict Resoltion]()
+  - [Conflict Resolution]()
   - [Community Management Resources]()
 - [General Community Resources]()
 
 ### Online Communities
 #### Understanding Developer Communities
-#### Understanding Coimmunity Management
+#### Understanding Community Management
 #### Creating Inclusive Communities
 #### Why we use Slack
 #### Why we use Discourse
-#### Conflict Resoltion
+#### Conflict Resolution
 #### Community Management Resources
 -
 
