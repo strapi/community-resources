@@ -2,19 +2,19 @@
 Information on everything content, this includes guides and content on how to create, manage and promote resources you create. Be that written, audio or video.
 
 ## Table of Contents
--[Why we Create Content]()
--[Benefits of Creating Content]()
-  -[But hey what can I write about?]()
--[Introduction to Technical Writing]() 
-  -[Writing for Developers]()
-  -[Clear Writing]()
-  -[Accessible Writing]()
-  -[Tools to Write Better]()
--[Technical Writing Resources]()
--[Introduction to Video Content]() 
-  -[Video Creation Resources]()
--[Promoting your Content]()
--[General Content Creation Resources]()
+- [Why we Create Content]()
+- [Benefits of Creating Content]()
+  - [But hey what can I write about?]()
+- [Introduction to Technical Writing]() 
+  - [Writing for Developers]()
+  - [Clear Writing]()
+  - [Accessible Writing]()
+  - [Tools to Write Better]()
+- [Technical Writing Resources]()
+- [Introduction to Video Content]() 
+  - [Video Creation Resources]()
+- [Promoting your Content]()
+- [General Content Creation Resources]()
 
 ### Why we Create Content
 
@@ -81,7 +81,7 @@ Writing your content is one thing, getting people to consume it is another. I kn
 
 Platforms play a huge role in making sure people see your content too. Here is a list of Developer-Centric Platforms to post on.
 - [Hashnode]()
-- [Reddit]
+- [Reddit]()
 - [Dev]()
 - [Hackernoon]()
 
