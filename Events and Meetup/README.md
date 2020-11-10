@@ -45,9 +45,8 @@ Starting a meetup is a great choice to have made. Bear in mind that consistency 
 
 As with many things, you have to promote your meetup so that it can reach as many people as it can. People in your areaa interested in topics discussed at yourt meeetup should be able to find it. Here a list of places where you can do just that.
 
-
-[Meetup.com](https://www.meetup.com/) - Handles Promotion, communication and discussions. 
-[Eventbrite](https://www.eventbrite.com/) - handles Promotion, attendee registration and check-in.
+- [Meetup.com](https://www.meetup.com/) - Handles Promotion, communication and discussions. 
+- [Eventbrite](https://www.eventbrite.com/) - handles Promotion, attendee registration and check-in.
     
 #### Looking for Speakers
 At the core of your meetups are the sessions people give, becuase of this, speakers to give these sesions an dtalks are really important. It's good practice to open up a call for papers sp people in your community can submit session sto speak. meetups are also a really good place for prople to get started at aspeaking so making the sessiosn open fpor beginners to apply is a really good initiative - as a meetup organiser, you should actively help and encourage first timers. 
@@ -66,7 +65,7 @@ Quite a bit goes into making sure meetups go on as smoothly as possible.
 >    Always get feedback 
 
 #### Staying Consistent 
-Develoeprsa love consistency (according to this book I read), so to properly grow your meetup. 
+Develoeprs love consistency (according to this book I read), so to properly grow your meetup. [Add a little more]
 
 ### Meetup Management Resources
 - [Enter The World of Technical Meetups](https://www.codingame.com/blog/enter-the-world-of-technical-meetups/)
