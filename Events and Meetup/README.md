@@ -65,7 +65,7 @@ Quite a bit goes into making sure meetups go on as smoothly as possible.
 >    Always get feedback 
 
 #### Staying Consistent 
-Develoeprs love consistency (according to this book I read), so to properly grow your meetup. [Add a little more]
+Developers love consistency (according to this book I read), so to properly grow your meetup adn keep your community engaged, you have to be consistent. Consistency means having a set schedule for meetups, meeting on the same of the week at uniform intervals. Consistency in branding and topic focus plays a huge part too. Do keep in mind that being consistent doesn't mean being boring. You don't want your community expecting the same things every time you gather. 
 
 ### Meetup Management Resources
 - [Enter The World of Technical Meetups](https://www.codingame.com/blog/enter-the-world-of-technical-meetups/)
