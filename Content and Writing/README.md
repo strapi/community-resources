@@ -68,6 +68,7 @@ Accessibility is about making sure anyone has access to and benefits from your c
 ### Technical Writing Resources
 - [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
 - [Writing for Software Developers](https://philipkiely.com/wfsd/)
+- [Advice for Technical Writing](https://css-tricks.com/advice-for-technical-writing/)
 - [Googles Technical Writing Course](https://developers.google.com/tech-writing)
 - [Why developers should know how to write](https://www.freecodecamp.org/news/why-developers-should-know-how-to-write-dc35aa9b71ab/)
 - [Technical Writing for Non-Writers](https://speakerdeck.com/taroth21/technical-writing-for-non-writers?slide=4)
