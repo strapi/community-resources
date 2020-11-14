@@ -74,7 +74,12 @@ Accessibility is about making sure anyone has access to and benefits from your c
 - [Proofreading: 7 Editing Tips That’ll Make You a Better Writer in 2020](https://smartblogger.com/proofreading-editing-tips/)
 
 ### Introduction to Video Content 
+Just like Technical Writing, creating Video Content requires one to have **clarity and accessibility** in mind. We need to keep it in mind, when creating content of any sort that our audiences have different ways of understanding and assimilating knowledge - they have different learning styles. IF one form won't make a concept clear, they'll try another one. Video content happens to be a very popular method of learning as many people find visual learning better and more effective. 
+
 ### Video Creation Resources
+- [egghead instructor guide](https://howtoegghead.com/instructor)
+- [How to start a coding YouTube channel](https://www.youtube.com/watch?v=AsTagX5tG4E)
+- [How to Make Great Training Videos](https://www.techsmith.com/blog/how-to-make-great-training-videos/)
 
 ### Promoting your Content
 Writing your content is one thing, getting people to consume it is another. I know it might be a little *cringe* to be all loud about the stuff you make but trust me, it's worth it. Promoting and sharing things you create means more people get to benefit from the stuff you do. Naming for a start is a great way to make sure people can find your content. Using Keywords from tools like [Google Trends](https://trends.google.com) and [Keyword Tool](https://keywordtool.io) would go a long way. 
