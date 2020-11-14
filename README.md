@@ -1,43 +1,17 @@
-This guide provides useful information to the Strapi Community Stars.
+As part of our commitment to give back to our Community, having noticed the various ways our community are coming together to make the Strapi Project a success - we've put together this resource to help members of the developer community contribute to open source projects outside of just code contributions.
+
+For Strapi, we've seen non-code contributions in the following ways.
+- Issues, Bug Reports and Project Dicussions in our [forum](https://forum.strapi.io)
+- Articles and videos as part of the [Write for the Community Program]() in our [Community Content Repo]()
+- Meetups Around the world as part of our [Global Meetup Program]()
+
+Theres so much activity in these areas and we wnt to make it so that anyone looking to start contributing can start through this resource. 
 
 ## Table of Contents
 
-- [Program Goals](#program-goals)
-- [Program Process](#program-process)
-  - [Acting as a Community Star](#acting-as-a-community-star)
-- [Perks](#perks)
 - [Resourses](#resources)
-  - [Whats Coming Up](#whats-coming-up)
 - [Contact](#contact)
-- [FAQ](#faq)
 - [Code of Conduct](#code-of-conduct)
-
-
-### Program Goals
-We want to be able to positively impact our community in a meaningful way. With that in mind, we created the Strapi Community Stars Program to help members become better in focus areas while using Strapi as a vehicle to get there. Potentially, we hope to train... **better Programmers, better Writers, better Speakers and better Community Managers.**
-
-### Program Process
-- Have 1:1 call - to sync priorities and establish personal connection
-- Stars confirm a focus area 
-- We avail Stars training and resources and invite them to the Strapi Stars github repo
-- We add Stars to website
-- We have month check-ins
-- Quarterly feedback/progress checks on focus areas
-
-#### Acting as a Community Star
-
-As you go about doing your work as a Communitry Star, we will utilize a light weight tracking system that uses [GitHub Issues](). All you need to do is follow the issue template to add an activity and bring it to our attention.
-
-### Perks [Add how to redeem in bullet point format]
-- Access to the Advanced Strapi Training - Strapi Certification
-- Test out and use new features 
-- Exclusive Swag Pack
-- Opportunities to mentor hackathons & speak at conferences
-- Recognition on Strapi Facebook, Twitter & Online Channels
-- Mentorship and help towards becoming a Strapi contributor
-- External Support in areas of interest for Career Growth
-- Professionally recognized experience with Strapi
-- Travel support for events 
 
 
 ### Resources
@@ -48,28 +22,11 @@ Depending on your path, we have curated and created different resources to help 
 3. [Forums and Slack](https://github.com/strapi/the-michelin-guide/tree/master/Forums%20and%20Slack) - Information on everything community, this guide includes information on how to go about engaging and speaking with fellow community memebers, handing bad actors, creating safe and inclusive speaces as well as driving the right conversations. 
 4. [Strapi Project Contribution](https://github.com/strapi/the-michelin-guide/tree/master/Strapi%20Project%20Contribution) - Information on everything open source, this will be an entry level guide into getting started with contributing to the Strapi project. This covers both code and documentation. 
 
-#### Whats Coming Up
-
-- [ ] Create program assets and deploy page
-- [ ] Roll out perks
-- [ ] Communication for launch
-- [ ] Gather feedback & iterate
 
 
 ### Contact
-If you need the help of the Strapi team a good first step would be to drop a message in the [#strapi-stars](https://strapi.slack.com/archives/G01AZ86NG92) channel or email Daniel on daniel.phiri@strapi.io.
+If you need the help of the Strapi team a good first step would be to email Daniel on daniel.phiri@strapi.io.
 
-### FAQ
-
-<details><summary>Who do I contact if I need help?</summary>
-<p>
-
-If you need the help of the Strapi team a good first step would be to drop a message in the [#strapi-stars](https://strapi.slack.com/archives/G01AZ86NG92) channel or email Daniel on daniel.phiri@strapi.io.
-
-</p>
-</details>
-
-Please send a message in the [#strapi-stars](https://strapi.slack.com/archives/G01AZ86NG92) if you would like to add a question to the FAQs.
 
 ### Code of Conduct
 
