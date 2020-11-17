@@ -6,7 +6,6 @@ Information on everything community, this guide includes information on how to g
   - [Understanding Developer Communities]()
   - [Understanding Community Interaction]()
   - [Creating Inclusive Communities]()
-  - [Why we use Slack]()
   - [Why we use Discourse]()
   - [Conflict Resolution]()
 - [General Community Resources]()
@@ -45,9 +44,11 @@ You can find the Strapi [Guidelines here](https://forum.strapi.io/faq#guidelines
 
 We all have some sort of bias that we've picked up a we've gone through life - be it from our upbringing, environments, culture or religion. These biases dictate who we are and how we view and understand the word around us. It is important that we recognise these biases we carry and the role they play in the way we interact with and communicate with people. This form of self awareness is important as we go about interacting with people in our community. 
 
-#### Why we use Slack
 #### Why we use Discourse
+
+We made a move to switch some of our community support and interaction from Slack and GitHub Discussions to Discourse. 
 #### Conflict Resolution
 
+Nothing highlights the need for a Code of Conduct like a violation of it in the form of conflict. As mentioned above, enforcing your Code of Conduct is very important as it goes a long way towards creating an inclusive space. You must do your best to act in a manner that will defuse the situation while enforcing the Code of Conduct. It is also important to have a section in your Code of Conduct that higlights actions to be taken in situations of conflict. That and the mention of key contacts who can manage the situation should it be beyond your control make managing and resolving conflict better. 
 
 ### General Community Resources
