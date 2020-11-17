@@ -18,10 +18,10 @@ There's so much activity in these areas and we want to make it so that anyone lo
 ### Resources
 If you've been wanting to contribute to open-source but feel you don't know how to. This resource is for you <3  .Below is a list of the resources with a link to page where you can find them.
 
-1. [Content and Writing]() - Information on everything content, this includes guides and content on how to create, manage and promote resources you create..
-2. [Events and Meetup]() - Information on everything events be it making them happen or participating. We'll cover topics like speaking, managing attendees, growing your meetup and many more.
-3. [Forums and Slack]() - Information on everything community, this guide includes information on how to go about engaging and speaking with fellow community members, handling bad actors, creating safe and inclusive spaces as well as driving the right conversations. 
-4. [Strapi Project Contribution]() - Information on everything open source, this will be an entry level guide into getting started with contributing to the Strapi project. This covers both code and documentation. 
+1. [Content and Writing](https://github.com/strapi/community-resources/tree/assets/Content%20and%20Writing) - Information on everything content, this includes guides and content on how to create, manage and promote resources you create..
+2. [Events and Meetups](https://github.com/strapi/community-resources/tree/assets/Events%20and%20Meetups) - Information on everything events be it making them happen or participating. We'll cover topics like speaking, managing attendees, growing your meetup and many more.
+3. [Forums and Slack](https://github.com/strapi/community-resources/tree/assets/Forums%20and%20Slack) - Information on everything community, this guide includes information on how to go about engaging and speaking with fellow community members, handling bad actors, creating safe and inclusive spaces as well as driving the right conversations. 
+4. [Strapi Project Contribution](https://github.com/strapi/community-resources/tree/assets/Strapi%20Project%20Contribution) - Information on everything open source, this will be an entry level guide into getting started with contributing to the Strapi project. This covers both code and documentation. 
 
 
 ### Contact
