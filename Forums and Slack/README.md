@@ -16,7 +16,7 @@ Information on everything community, this guide includes information on how to g
 
 ### Developer Communities
 
-Loosely defined, a community is a group of people who gather in a space (online or offline), brought together by a common entity - either a goal, product, tool, or cause. Developers usually form communities around tools they use. You can have a Community of people who use a project like [Strapi](https://strapi.io) or people who have a passion for a a certain architecture like [JAMStack](https://jamstack.org).
+Loosely defined, a community is a group of people who gather in a space (online or offline), brought together by a common entity - either a goal, product, tool, or cause. Developers usually form communities around tools they use. You can have a Community of people who use a project like [Strapi](https://strapi.io) or people who have a passion for a a certain architecture like [Jamstack](https://jamstack.org).
 
 #### Understanding Developer Communities
 
