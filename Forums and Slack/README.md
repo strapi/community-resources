@@ -9,10 +9,9 @@ Information on everything community, this guide includes information on how to g
   - [Understanding Community Interaction](#understanding-community-interaction)
   - [Creating Inclusive Communities](#creating-inclusive-communities)
   - [Why we use Discourse](#why-we-use-discourse)
+  - [Why we use Slack](#why-we-use-slack)
   - [Conflict Resolution](#conflict-resolution)
 - [General Community Resources](#general-community-resources)
-  - [Discourse](#discourse)
-  - [Slack](#slack)
 
 ### Developer Communities
 
@@ -54,7 +53,14 @@ We all have some sort of bias that we've picked up a we've gone through life - b
 
 #### Why we use Discourse
 
-We made a move to switch some of our community support and interaction from Slack and GitHub Discussions to Discourse.
+We made a move to switch some of our community support and interaction from Slack and GitHub Discussions to Discourse. Discourse, as a forum software, provide a technical benefit to the users in our community by making the collective community knowledge more accessible. The root goal of the forum is to provide a simple place to ask questions and gather answers while also being inclusive of those who join the community many months after the question was asked/answered.
+
+We migrated to Discourse from GitHub discussions in late 2020 in order to build out a tool with more potential ability than GitHub discussions could offer us. With the intent of expanding it's usage far beyond just the general Q&A.
+
+
+#### Why we use Slack
+
+We opted to keep our existing community Slack for the time being, at the request of our community, who felt it was still valuable to have a real time communications platform. While we are beginning to exceed the limits of our current free Slack, and are looking to migrate to a new platform, we will always maintain a real time chat platform for our community.
 
 #### Conflict Resolution
 
@@ -62,12 +68,3 @@ Nothing highlights the need for a Code of Conduct like a violation of it in the 
 
 ### General Community Resources
 
-#### Discourse
-
-Discourse, as a forum software, provide a technical benefit to the users in our community by making the collective community knowledge more accessible. The root goal of the forum is to provide a simple place to ask questions and gather answers while also being inclusive of those who join the community many months after the question was asked/answered.
-
-We migrated to Discourse from GitHub discussions in late 2020 in order to build out a tool with more potential ability than GitHub discussions could offer us. With the intent of expanding it's usage far beyond just the general Q&A.
-
-#### Slack
-
-We opted to keep our existing community Slack for the time being, at the request of our community, who felt it was still valuable to have a real time communications platform. While we are beginning to exceed the limits of our current free Slack, and are looking to migrate to a new platform, we will always maintain a real time chat platform for our community.
