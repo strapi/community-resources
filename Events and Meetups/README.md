@@ -99,7 +99,7 @@ Topics can be hard to come by, a good place to start with topics is asking yours
 - What have I recently learned that could be great to share?
 - What lessons have a learned from a recent expereince? 
 
-SOme tips for crafting a winning proposal?
+Some tips for crafting a winning proposal?
 - Read the submission form to get a feel of what the event wants.
 - Look at talks accepted in the past
 - Submit a talk as soon as you can 
