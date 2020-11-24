@@ -10,13 +10,13 @@ There's so much activity in these areas and we want to make it so that anyone lo
 
 ## Table of Contents
 
-- [Resourses](#resources)
+- [Resources](#resources)
 - [Contact](#contact)
 - [Code of Conduct](#code-of-conduct)
 
 
 ### Resources
-If you've been wanting to contribute to open-source but feel you don't know how to. This resource is for you <3  .Below is a list of the resources with a link to page where you can find them.
+If you've been wanting to contribute to open-source but feel you don't know how to. This resource is for you <3 . Below is a list of the resources with a link to page where you can find them.
 
 1. [Content and Writing](https://github.com/strapi/community-resources/tree/assets/Content%20and%20Writing) - Information on everything content, this includes guides and content on how to create, manage and promote resources you create..
 2. [Events and Meetups](https://github.com/strapi/community-resources/tree/assets/Events%20and%20Meetups) - Information on everything events be it making them happen or participating. We'll cover topics like speaking, managing attendees, growing your meetup and many more.
