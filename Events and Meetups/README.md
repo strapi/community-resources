@@ -57,11 +57,11 @@ It is also  encouraged to invite speakers from other communities by postoing you
 
 Quite a bit goes into making sure meetups go on as smoothly as possible. Here's a quick overview that applies to both online and offline meetups.
   
->    Introduce yourself as the meetup host
->    Point out the Code of Conduct; it makes it clear how people should behave and what happens if they don't
->    Give an outline the agenda for the event
->    Introduce the speaker 
->    Gather feedback at the end
+- Introduce yourself as the meetup host
+- Point out the Code of Conduct; it makes it clear how people should behave and what happens if they don't
+- Give an outline the agenda for the event
+- Introduce the speaker 
+- Gather feedback at the end
 
 #### Staying Consistent 
 Developers love consistency (according to this book I read), so to properly grow your meetup and keep your community engaged, you have to be consistent. Consistency means having a set schedule for meetups, meeting on the same of the week at uniform intervals. Consistency in branding and topic focus plays a huge part too. Do keep in mind that being consistent doesn't mean being boring. You don't want your community expecting the same things every time you gather. 
