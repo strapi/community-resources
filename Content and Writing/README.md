@@ -8,7 +8,7 @@ Information on everything content, this includes guides and content on how to cr
 - [Introduction to Technical Writing](#introduction-to-technical-writing) 
   - [Writing for Developers](#writing-for-developers)
   - [Clear Writing](#clear-writing)
-  - [Accessible Writing](#accessible-writing)
+  - [Universality](#universality)
   - [Tools to Write Better](#tools-to-write-better)
   - [Technical Writing Resources](#technical-writing-resources)
 - [Introduction to Video Content](#introduction-to-video-content) 
@@ -38,7 +38,7 @@ And one of the most important things to write about is things you are learning, 
 This is one of my favourite definitions of Technical Writing:
 > Technical writing is an audience-centred means of communication that provides a reader with clear and easy access to information.
 
-It puts a focus on the audience which in our case are **developers** and describes what characteristics your content should possess - **clarity and accessibility**.
+It puts a focus on the audience which in our case are **developers** and describes what characteristics your content should possess - **clarity and universality**.
 
 #### Writing for Developers
 
@@ -52,8 +52,8 @@ It puts a focus on the audience which in our case are **developers** and describ
 
 The clarity of your writing is very important, even more so for technical pieces. People consuming technical writing expect it to be clear, precise and straight to the point. Clarity means having a set-out structure to your content, using correct grammar and spelling and making your sentences as simple as possible. 
 
-#### Accessible Writing
-Accessibility is about making sure people of all experience levels have access to and benefit from your content. Here is a list of things to look out for to make your content accessible.
+#### Universality
+Universality here, is about making sure people of all experience levels have access to and benefit from your content. Here is a list of things to look out for to make your content better in this regard.
 - Use simple and short paragraphs to explain topics
 - Don't assume technical expertise, make sure that your content caters for developers of all skill levels.
 - Always have prerequisites if you're having people write an article folks are supposed to follow. This way they can get everything they need ready.
@@ -75,7 +75,7 @@ Accessibility is about making sure people of all experience levels have access t
 - [Proofreading: 7 Editing Tips That’ll Make You a Better Writer in 2020](https://smartblogger.com/proofreading-editing-tips/)
 
 ### Introduction to Video Content 
-Just like Technical Writing, creating Video Content requires one to have **clarity and accessibility** in mind. We need to keep it in mind, when creating content of any sort that our audiences have different ways of understanding and assimilating knowledge - they have different learning styles. If one form won't make a concept clear, they'll try another one. Video content happens to be a very popular method of learning as many people find visual learning better and more effective. 
+Just like Technical Writing, creating Video Content requires one to have **clarity and universality** in mind. We need to keep it in mind, when creating content of any sort that our audiences have different ways of understanding and assimilating knowledge - they have different learning styles. If one form won't make a concept clear, they'll try another one. Video content happens to be a very popular method of learning as many people find visual learning better and more effective. 
 
 ### Video Creation Resources
 - [egghead instructor guide](https://howtoegghead.com/instructor)
