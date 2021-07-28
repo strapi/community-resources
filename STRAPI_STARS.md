@@ -9,4 +9,4 @@ Find out more about the [Strapi Stars Program](https://strapi.io/community-stars
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Daniel Madalitso Phiri      | malgamves      | Vue.js, GraphQL, Nuxt, Strapi, Vuex, Communities, Music (Techno)    | Integrations, Controllers       | Speaking, Writing, Testing      |
 | Boaz Poolman | boaz | React, React-Native, Drupal, Strapi plugins, Open-Source, CI, CSS, WCAG, Responsive design, Skateboarding, Surfing, Traveling | Plugins, Controllers, Services, Models, Queries, Routing, RBAC, Migration | Plugin development, Testing, Speaking |
-| Monico Moreno      | mam1028      | NodeJs/Javascript, ReactJs, Strapi, WebDev    | Strapi 101, Custom Starters, Custom Controller Logic, etc.       | Golf ⛳️, Drumming 🥁, Briarwood Pipes, Cigars, Whisky/ey 🥃, Foosball ⚽️      |
+| Monico Moreno      | mam1028      | NodeJs/Javascript, ReactJs, Strapi, WebDev    | Strapi 101, Custom Starters, Custom Controller Logic, etc.       | [Training Videos](https://strapi.training), Social Media Interactions, (future) Code Contributions, Strapi Forum Contributions, etc.       |
