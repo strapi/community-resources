@@ -20,7 +20,7 @@ If you've been wanting to contribute to open-source but feel you don't know how 
 
 1. [Content and Writing](https://github.com/strapi/community-resources/tree/master/Content%20and%20Writing) - Information on everything content, this includes guides and content on how to create, manage and promote resources you create..
 2. [Events and Meetups](https://github.com/strapi/community-resources/tree/master/Events%20and%20Meetups) - Information on everything events be it making them happen or participating. We'll cover topics like speaking, managing attendees, growing your meetup and many more.
-3. [Forums and Discord](https://github.com/strapi/community-resources/tree/master/Forums%20and%20Slack) - Information on everything community, this guide includes information on how to go about engaging and speaking with fellow community members, handling bad actors, creating safe and inclusive spaces as well as driving the right conversations. 
+3. [Forums and Discord](https://github.com/strapi/community-resources/tree/master/Forums%20and%20Discord) - Information on everything community, this guide includes information on how to go about engaging and speaking with fellow community members, handling bad actors, creating safe and inclusive spaces as well as driving the right conversations. 
 4. [Strapi Project Contribution](https://github.com/strapi/community-resources/tree/master/Strapi%20Project%20Contribution) - Information on everything open source, this will be an entry level guide into getting started with contributing to the Strapi project. This covers both code and documentation. 
 
 
