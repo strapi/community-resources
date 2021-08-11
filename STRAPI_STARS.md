@@ -14,3 +14,4 @@ Find out more about the [Strapi Stars Program](https://strapi.io/community-stars
 | Precious Luke  |  localhost_101  | NodeJS, ReactJS Strapi, Golang, Open Source | Strapi101, Integration, Deployment, Policies/Controllers | Writing, Speaking, Rapping |
 | Saad Mujeeb  |  Saad_Mujeeb  | NodeJS, Vue.js, Nuxt, Flutter, Strapi, Content-Modelling, Python, Odoo | Strapi101, Integration with any platform, Deployment, Hooks, Controllers, Migrations, Basic to Intermediate Concepts | Code Contribution, Plugin Development, Speaking, Training Videos, Help channel Contributions |
 | Ukpai Ugochi  |  hannydevelop | JavaScript, Strapi, Rust | Strapi101, Deployment, Controllers | Writing, Speaking, Coding |
+| Mattias van den Belt | MattieBelt | Node.js, Javascript, React, React Native, Strapi, Algolia | Customization, EE & RBAC, Testing, Package development, everything just not GraphQL | Package development, Code contributions, Helping Discord & Forum |
