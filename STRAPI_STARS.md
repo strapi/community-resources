@@ -7,6 +7,7 @@ Find out more about the [Strapi Stars Program](https://strapi.io/community-stars
 
 | Name      | Forum Username (optional) | Talk to me about      | Strapi Concepts I Know | Activities I like |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Abdón Rodríguez Davila | abdonrd | JavaScript, Web Components, Strapi, open source | Models, Controllers, services | Learn, code, travel and food |
 | Daniel Madalitso Phiri      | malgamves      | Vue.js, GraphQL, Nuxt, Strapi, Vuex, Communities, Music (Techno)    | Integrations, Controllers       | Speaking, Writing, Testing      |
 | Thibaut DAVID | Stun3R | Vue.js, Nuxt.js, Strapi, Qovery, @nuxtjs/strapi, SDK, Tailwindcss, Slackline, Drums, Disney | Integration, Hooks, Custom Controllers, All basics concepts | Package & Plugin development, Code Contributions, Speaking |
 | Boaz Poolman | boaz | React, React-Native, Drupal, Strapi plugins, Open-Source, CI, CSS, WCAG, Responsive design, Skateboarding, Surfing, Traveling | Plugins, Controllers, Services, Models, Queries, Routing, RBAC, Migration | Plugin development, Testing, Speaking |
@@ -15,3 +16,4 @@ Find out more about the [Strapi Stars Program](https://strapi.io/community-stars
 | Saad Mujeeb  |  Saad_Mujeeb  | NodeJS, Vue.js, Nuxt, Flutter, Strapi, Content-Modelling, Python, Odoo | Strapi101, Integration with any platform, Deployment, Hooks, Controllers, Migrations, Basic to Intermediate Concepts | Code Contribution, Plugin Development, Speaking, Training Videos, Help channel Contributions |
 | Ukpai Ugochi  |  hannydevelop | JavaScript, Strapi, Rust | Strapi101, Deployment, Controllers | Writing, Speaking, Coding |
 | Mattias van den Belt | MattieBelt | Node.js, Javascript, React, React Native, Strapi, Algolia | Customization, EE & RBAC, Testing, Package development, everything just not GraphQL | Package development, Code contributions, Helping Discord & Forum |
+| Gabriela Zifferman  |  gabyzif | HTML5/CSS3, JavaScript, React, Strapi, Web Design | Strapi101, Deployment, Controllers, Hooks, Services, Models, Queries, Routing, | Drawing, Make-up, Coding, Speaking, Travelling  |
