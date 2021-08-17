@@ -7,6 +7,7 @@ Find out more about the [Strapi Stars Program](https://strapi.io/community-stars
 
 | Name      | Forum Username (optional) | Talk to me about      | Strapi Concepts I Know | Activities I like |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Abdón Rodríguez Davila | abdonrd | JavaScript, Web Components, Strapi, open source | Models, Controllers, services | Learn, code, travel and food |
 | Daniel Madalitso Phiri      | malgamves      | Vue.js, GraphQL, Nuxt, Strapi, Vuex, Communities, Music (Techno)    | Integrations, Controllers       | Speaking, Writing, Testing      |
 | Thibaut DAVID | Stun3R | Vue.js, Nuxt.js, Strapi, Qovery, @nuxtjs/strapi, SDK, Tailwindcss, Slackline, Drums, Disney | Integration, Hooks, Custom Controllers, All basics concepts | Package & Plugin development, Code Contributions, Speaking |
 | Boaz Poolman | boaz | React, React-Native, Drupal, Strapi plugins, Open-Source, CI, CSS, WCAG, Responsive design, Skateboarding, Surfing, Traveling | Plugins, Controllers, Services, Models, Queries, Routing, RBAC, Migration | Plugin development, Testing, Speaking |
