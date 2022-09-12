@@ -21,3 +21,4 @@ Find out more about the [Strapi Stars Program](https://strapi.io/community-stars
 | Gabriela Zifferman  |  gabyzif | HTML5/CSS3, JavaScript, React, Strapi, Web Design | Strapi101, Deployment, Controllers, Hooks, Services, Models, Queries, Routing, | Drawing, Make-up, Coding, Speaking, Travelling  |
 | Diane Guillot  |  Leiksa | Vue.js, Nuxt.js, Strapi, Tailwindcss, HTML5/CSS3, Web Design, Video Games, Disney | Basics concepts, Draft & Publish, Relation | Design, Coding, Travelling, Playing video games, Movies  |
 | Simen Daehlin  |  Eventyret | Docker, Angular, Strapi, Typescript, HTML5/CSS3, Video Games | CLI tools, Plugin design, System Design, Scalability,Basics concepts | Coding, Trophy Hunting (PSN), Playing video games, Movies, Automation  |
+| Kevin A. Rateni Iatauro  |  WalkingPizza | React, Node, TypeScript, DevOps | Controllers, Policies, Lifecycles, Database Migrations, Plugins, Deployment | Travelling and fighting with designers  |
